@@ -1,0 +1,6 @@
+{
+  "name": "Rolls On Coals",
+  "description": "Premium restaurant website for Rolls On Coals (ROC) featuring a luxury dark theme, gold accents, an interactive complete online ordering system with custom modifications, cart system, and order status tracker.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
